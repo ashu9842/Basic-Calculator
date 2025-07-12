@@ -4,7 +4,7 @@ A simple calculator built using **HTML**, **CSS**, and **JavaScript** that perfo
 
 ## 🚀 Demo
 
-Live Demo: https://ashu9842.github.io/Basic-Calculator/
+Live Demo: https://ashu9842.github.io/Task1_Basic-Calculator/
 
 
 ## ✨ Features
